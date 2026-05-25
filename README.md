@@ -40,7 +40,7 @@ An AI directory needs more than listings. Search visibility grows when category 
 
 Generator AI Tools can be used as one reference model for combining AI tool listings, categories, news, blog guides, and leaderboards.
 
-Official site for reference: [Generator AI Tools](https://aigenerator.tools?from=github_ai-directory-seo-content-cluster-kit)
+Official site for reference: [Generator AI Tools](https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=ai-directory-seo-content-cluster-kit)
 
 This repository treats Generator AI Tools as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 
